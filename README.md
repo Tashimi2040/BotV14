@@ -2,7 +2,7 @@
 E uma source/base para vocês simples e facil.
 
 # NPMS
-npm i chalk, discord.js, fs, enviroment
+npm i
 
 # Como utilizar?
 E simples e facil, primeiro crie um arquivo chamado .env e coloque tudo que esta em .envEXAMPLE.
