@@ -1,7 +1,7 @@
 # BotV14
 E uma source/base para vocês simples e facil.
 
-# NPMS
+# NPM
 npm i
 
 # Como utilizar?
