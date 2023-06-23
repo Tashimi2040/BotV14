@@ -1,7 +1,7 @@
 # BotV14
 <p float="left">
 
- <img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techtudo.com.br%2Fdicas-e-tutoriais%2F2020%2F01%2Fcomo-criar-bot-no-discord.ghtml&psig=AOvVaw2f6wCVp_Ucc3VAe5A_JaqX&ust=1687627459588000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMjZm6z02f8CFQAAAAAdAAAAABAF)" width="200" /> 
+ <img src="https://imgur.com/a/ExWBY2X.png" width="200" /> 
 
 </p>
 # Oque seria essa tal source
