@@ -1,6 +1,10 @@
 # BotV14
 
-   ![discord](https://github.com/Tashimi2040/BotV14/assets/132114580/997a1876-1fb3-43f3-9975-b6a7b3990c83)
+   <p float="left">
+
+ <img src="https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg" width="200" />
+
+</p>
 
 # Oque seria essa tal source
 E uma source/base para vocês simples e facil.
