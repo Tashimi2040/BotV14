@@ -18,8 +18,27 @@
 
 <p>npm i</p>
 
-<h2>Como utilizar?</h2>
-<p>E simples e facil, primeiro crie um arquivo chamado .env e coloque de acordo com o <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample">EXEMPLO</a>. </p>
+<h2><img align="near" src="https://cdn.discordapp.com/emojis/990307703668752435.webp?size=96&quality=lossless" width="32px" /> Base de comando</h2>
+	
+```js
+const Command = require('../../structures/Command')
+
+module.exports = class extends Command {
+    constructor(client) {
+        super(client, {
+            name: 'teste',//Nome do comando
+            description: 'Exemplo.'//Nome da descrição
+        })
+    }
+
+    run = (interaction) => {
+	    //oque o bot ira fazer.
+        interaction.reply({
+            content: 'Oi'
+        })
+    }
+}
+```
  
 
 <h3><img align="center" src="https://cdn.discordapp.com/emojis/806694071627546725.webp?size=96&quality=lossless" width="32px"> Criador</h3> 
