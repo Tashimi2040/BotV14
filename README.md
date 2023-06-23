@@ -8,7 +8,7 @@
 
 <h2>Topicos</h2>
 
-* [Inicio](/blob/main/index.js)
+* [Inicio](main/index.js)
 
  <h2>Oque seria essa tal source</h2>
 <p> E uma base para vocês simples e facil para dar inicio a seus projetos enormes.</p>
