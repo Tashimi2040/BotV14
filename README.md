@@ -1,7 +1,7 @@
 <h1 align="center">Tashimi/base</h1>
    <p align="center">
 
- <img src="https://github.com/Tashimi2040/BotV14/assets/132114580/997a1876-1fb3-43f3-9975-b6a7b3990c83.jpg" width="200" />
+ <img src="https://github.com/Tashimi2040/BotV14/assets/132114580/997a1876-1fb3-43f3-9975-b6a7b3990c83.jpg" width="300"/>
 
 </p>
 
@@ -15,7 +15,5 @@
 <h2>Como utilizar?</h2>
 <p>E simples e facil, primeiro crie um arquivo chamado .env e coloque de acordo com o <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample">EXEMPLO</a>. </p>
 
-Apos ter feito isso coloque o token do bot e de node . , Caso o bot fique online tudo ocorreu bem.
-# Suporte
-Caso de erro entre em contato no discord com Tashimi2040
+
 
