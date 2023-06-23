@@ -1,6 +1,6 @@
 # BotV14
 
-                        ![discord](https://github.com/Tashimi2040/BotV14/assets/132114580/997a1876-1fb3-43f3-9975-b6a7b3990c83)
+   ![discord](https://github.com/Tashimi2040/BotV14/assets/132114580/997a1876-1fb3-43f3-9975-b6a7b3990c83)
 
 # Oque seria essa tal source
 E uma source/base para vocês simples e facil.
