@@ -12,7 +12,7 @@
 <p>npm i</p>
 
 <h2>Como utilizar?</h2>
-<p>E simples e facil, primeiro crie um arquivo chamado .env e coloque tudo que esta em  <a href="" target="_blank" rel="noopener noreferrer">EXEMPLO</a> . </p>
+<p>E simples e facil, primeiro crie um arquivo chamado .env e coloque tudo que esta em  <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample" target="_blank" rel="noopener noreferrer">EXEMPLO</a> . </p>
 
 Apos ter feito isso coloque o token do bot e de node . , Caso o bot fique online tudo ocorreu bem.
 # Suporte
