@@ -1,19 +1,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/whoisdon/CommunityStructure?color=%2304D361">
 	
-  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/whoisdon/CommunityStructure">	
-	
-  <a href="https://discord.gg/3Cps7AuNQ6">
-    <img alt="Made by ঔৣ☬✞𝓓𝖔𝖓✞☬ঔৣ#0552" src="https://img.shields.io/badge/made%20by-whoisdon-%2304D361">
-  </a>
-
-  <a href="https://github.com/whoisdon/APIExpress/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/whoisdon/CommunityStructure">
-  </a>
-
-  <a href="https://github.com/whoisdon/APIExpress/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/whoisdon/CommunityStructure">
-  </a>
+  <img alt="Repository issues" src="https://img.shields.io/github/languages/top/whoisdon/CommunityStructure">
 </p>
 <h1 align="center">Tashimi/base</h1>
 <p align="center">
