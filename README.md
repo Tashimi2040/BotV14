@@ -21,8 +21,16 @@
 <h2><img align="near" src="https://cdn.discordapp.com/emojis/999075964254425188.webp?size=96&quality=lossless" width="30px"/> Começo</h2>
 <p align="center">para dar inicio e presciso que crie o arquivo <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample">.env</a></p>
 <p align="center"> <img src="https://github.com/Tashimi2040/BotV14/assets/132114580/6857126e-8716-427c-8f16-cbe616a89a3a"/> </p>
+<p>Após criar o <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample">.env</a> é colocar seu token e presciso que de inicio a botficação usando:</p>
 
-
+```
+node .
+```
+<p>caso tudo ocorra normalmente seu bot estara pronto para responder seus comandos.</p>
+<p>Esta pronto para criar seus comandos, para criar veja os exemplos de <a href="https://github.com/Tashimi2040/BotV14#-base-de-comando">base de comando</a>, Agora oque basta é sua imaginação,</p>
+<br>
+<br>
+<br>
 <h2><img align="near" src="https://cdn.discordapp.com/emojis/990307703668752435.webp?size=96&quality=lossless" width="32px" /> Base de comando</h2>
 
 ```js
@@ -46,9 +54,9 @@ module.exports = class extends Command {
 ```
  
 
-<h3><img align="center" src="https://cdn.discordapp.com/emojis/806694071627546725.webp?size=96&quality=lossless" width="32px"> Criador</h3> 
+<h2><img align="near" src="https://cdn.discordapp.com/emojis/806694071627546725.webp?size=96&quality=lossless" width="32px"> Criador</h2> 
 
 
- [<img src="https://github.com/Tashimi2040/BotV14/assets/132114580/32c2457c-2c23-48bc-9d90-bab8d9156086?size=115" width=115><br>Creator<br><sub>@tashimi2040</sub>](https://github.com/Tashimi2040) 
+ [<img src="https://github.com/Tashimi2040/BotV14/assets/132114580/32c2457c-2c23-48bc-9d90-bab8d9156086?size=115" width=115><br>Criador<br><sub>@tashimi2040</sub>](https://github.com/Tashimi2040) 
  :---:
 
