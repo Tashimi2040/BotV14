@@ -10,10 +10,6 @@
 
 </p>
  
-
- <h2>O por que estou fazendo isso?</h2>
-<p> Ja vim sofrendo bastante com problemas que me deixava triste como encontrar bases dificieis e que vinha cheio de coisa embutida deixando impossivel eu progredir, logo tive a brilhante ideia de me aprofundar e fazer essa base para vocês conseguirem prosseguir normalmente.</p>
-
 <h2>Como instalar as depedencias?</h2>
 
 <p>npm i</p>
