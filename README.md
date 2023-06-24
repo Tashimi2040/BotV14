@@ -27,6 +27,9 @@ node .
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
 <h2><img align="near" src="https://cdn.discordapp.com/emojis/990307703668752435.webp?size=96&quality=lossless" width="32px" /> Base de comando</h2>
 
 ```js
