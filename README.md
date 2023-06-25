@@ -7,24 +7,16 @@
 <p align="center">
 
  <img src="https://github.com/Tashimi2040/BotV14/assets/132114580/997a1876-1fb3-43f3-9975-b6a7b3990c83.jpg" width="400"/>
+ <br>
+<br>
 
 </p>
  
-<h2>Como instalar as depedencias?</h2>
+<h2>Como instalar as dependências?</h2>
 
 <p>npm i</p>
-
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<b>
-
-
 <h2><img align="near" src="https://cdn.discordapp.com/emojis/999075964254425188.webp?size=96&quality=lossless" width="30px"/> Começo</h2>
 <p align="center">para dar inicio e presciso que crie o arquivo <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample">.env</a></p>
 <p align="center"> <img src="https://github.com/Tashimi2040/BotV14/assets/132114580/bc4f7322-5b46-4cd3-837e-417bb2f174ad"/> </p>
@@ -35,13 +27,6 @@ node .
 ```
 <p>caso tudo ocorra normalmente seu bot estara pronto para responder seus comandos.</p>
 <p>Esta pronto para criar seus comandos, para criar veja os exemplos de <a href="https://github.com/Tashimi2040/BotV14#-base-de-comando">base de comando</a>, Agora oque basta é sua imaginação,</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <h2><img align="near" src="https://cdn.discordapp.com/emojis/990307703668752435.webp?size=96&quality=lossless" width="32px" /> Base de comando</h2>
