@@ -14,6 +14,17 @@
 
 <p>npm i</p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <h2><img align="near" src="https://cdn.discordapp.com/emojis/999075964254425188.webp?size=96&quality=lossless" width="30px"/> Começo</h2>
 <p align="center">para dar inicio e presciso que crie o arquivo <a href="https://github.com/Tashimi2040/BotV14/blob/main/.envexample">.env</a></p>
 <p align="center"> <img src="https://github.com/Tashimi2040/BotV14/assets/132114580/6857126e-8716-427c-8f16-cbe616a89a3a"/> </p>
@@ -24,6 +35,9 @@ node .
 ```
 <p>caso tudo ocorra normalmente seu bot estara pronto para responder seus comandos.</p>
 <p>Esta pronto para criar seus comandos, para criar veja os exemplos de <a href="https://github.com/Tashimi2040/BotV14#-base-de-comando">base de comando</a>, Agora oque basta é sua imaginação,</p>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
