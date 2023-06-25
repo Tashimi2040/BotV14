@@ -53,7 +53,7 @@ module.exports = class extends Command {
     constructor(client) {
         super(client, {
             name: 'teste',//Nome do comando
-            description: 'Exemplo.'//Nome da descrição
+            description: 'Exemplo.'//descrição
         })
     }
 
